@@ -1,0 +1,10 @@
+C:\Users\SystemX\source\repos\SportShop\SportShop\bin\Debug\SportShop.exe.config
+C:\Users\SystemX\source\repos\SportShop\SportShop\bin\Debug\SportShop.exe
+C:\Users\SystemX\source\repos\SportShop\SportShop\bin\Debug\SportShop.pdb
+C:\Users\SystemX\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.AssemblyReference.cache
+C:\Users\SystemX\source\repos\SportShop\SportShop\obj\Debug\SportShop.AuthorizationForm.resources
+C:\Users\SystemX\source\repos\SportShop\SportShop\obj\Debug\SportShop.Properties.Resources.resources
+C:\Users\SystemX\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.GenerateResource.cache
+C:\Users\SystemX\source\repos\SportShop\SportShop\obj\Debug\SportShop.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\source\repos\SportShop\SportShop\obj\Debug\SportShop.exe
+C:\Users\SystemX\source\repos\SportShop\SportShop\obj\Debug\SportShop.pdb
